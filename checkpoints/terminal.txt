@@ -22,7 +22,7 @@ ls lists the files and directories in your current location. If nothing is in th
 
 # 6 - What is a quick way to create a new file?
 
-touch <file_name> (include extension, example .txt or .docx)
+touch <file_name> (include extension, example .js or .docx)
 
 # 7 - Run 'git --version' in your terminal. What is the output?
 
@@ -37,3 +37,5 @@ To see if git was initialized but most importantly to track the changes to any d
 Add everything in the current folder to be tracked by git
 
 # 10 - What is the command to push your committed changes to your repo on GitHub?
+
+git push -u origin main 
